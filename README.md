@@ -1,4 +1,3 @@
-# Similar-images-footwear
 # 👟 Footwear Image Similarity Detection using Deep Learning & Computer Vision
 
 ## 📘 Overview  
