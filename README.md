@@ -1,6 +1,4 @@
 # 👟 Footwear Image Similarity Detection using Deep Learning & Computer Vision
-This project implements an image similarity pipeline to find visually similar footwear images. It uses deep learning feature extraction + similarity metrics to rank similar shoes based on design, color, style and pattern.
-
 ## 📘 Overview  
 This project implements an image similarity pipeline to find visually similar footwear images. It uses deep learning feature extraction + similarity metrics to rank similar shoes based on design, color, style and pattern.
 
